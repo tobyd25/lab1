@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Santiago
-=======
 Tristan
 Rachel
 George
->>>>>>> 7338273af0edcff597e0d3600761cfefcab515b7
+Toby
